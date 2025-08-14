@@ -25,6 +25,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Rules | Explanation | Notes |
 | ------------- | ------------- |  ------------- |
 | Swift Beginnings | ALL banned moves, items and Pokémon may be used while labbing and pivoting. The normal restrictions on moves, abilities and BST apply once you begin the first non-rival battle. | You may not favorite or run 580+ BST Pokémon |
+| Put That Down! | Any items aquired via the pickup ability must be thrown away asap   |  |
 | Limited Healthcare  |  After receiving your first Gym badge immediately use the Pokémon Centre. You may now only use the Pokémon Centre up to 5 times for the remainder of the run.  | You may use beds, Doctors, the Healing Circle and other PC substitutes, these still count towards your usages |
 | Final Frontier | After Acquiring your 8th Gym badge, Battle Items are now banned but you gain one Bonus Pokémon Centre usage.   |
 | Helpful Healing | As long as you are not inside a gym or the Elite 4: HP Heals, Status Heals, and PP items can be used outside of battle. While in a Gym or Elite 4, healing must be done only in battle. | Dojos are treated the same as gyms, so these restrictions apply there as well. |
@@ -53,11 +54,12 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
 1. 1. The Mt. Moon Step Items are banned
-   2. The following move tutors can used one time by full clearing (beating every single trainer battle) their associated dungeon. These do not have to be used immediately but one-shot dungeons still apply. 
+   2. The following NPCs provide TMs which may be used in accordance with the balls of knowledge rule:  Mr Psychic in Saffron, Return girl in the gate South of Lavender and the dept. store girl if you give her a fresh water/soda pop/lemonade found via regular means. 
+   3. The following move tutors can used one time by full clearing (beating every single trainer battle) their associated dungeon. These do not have to be used immediately but one-shot dungeons still apply. 
   
 | Dungeon | Tutor |
 | ------------- | ------------- |
-| Mt. Moon | 2 Move Bros |
+| Mt. Moon | 2 Move Bros once you leave |
 | Rock Tunnel | Youngster near the end of the tunnel |
 | Rocket Hideout | Celadon Counter Tutor (in the dept. store  |
 | Silph Co. | Copycat girl in Saffron |
