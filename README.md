@@ -53,9 +53,9 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 ### Fire Red / Leaf Green
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
-1. 1. The Mt. Moon Step Items are banned
-   2. The following NPCs provide TMs which may be used in accordance with the balls of knowledge rule:  Mr Psychic in Saffron, Return girl in the gate South of Lavender and the dept. store girl if you give her a fresh water/soda pop/lemonade found via regular means. 
-   3. Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
+1. The Mt. Moon Step Items are banned
+2. The following NPCs provide TMs which may be used in accordance with the balls of knowledge rule:  Mr Psychic in Saffron, Return girl in the gate South of Lavender and the dept. store girl if you give her a fresh water/soda pop/lemonade found via regular means. 
+3. Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
   
 | Dungeon | Tutor |
 | ------------- | ------------- |
