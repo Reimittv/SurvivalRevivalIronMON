@@ -53,11 +53,21 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
 1. 1. The Mt. Moon Step Items are banned
-   2. 
+   2. The following move tutors can used one time by full clearing (beating every single trainer battle) their associated dungeon. These do not have to be used immediately but one-shot dungeons still apply. 
+  
+| Dungeon | Tutor |
+| ------------- | ------------- |
+| Mt. Moon | 2 Move Bros |
+| Rock Tunnel | Youngster near the end of the tunnel |
+| Rocket Hideout | Celadon Counter Tutor (in the dept. store  |
+| Silph Co. | Copycat girl in Saffron |
+| Cinnabar Mansion | Metronome Tutor in research facility |
+| Victory Road | NPC near the exit |
 
 
 
 
 ## Randomizer Settings Strings
 
+FRLG
 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyEwUYEEZpcmUgUmVkIChVKSAxLjFlN6oO48M4ig==
