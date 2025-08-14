@@ -25,12 +25,21 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Rules | Explanation |
 | ------------- | ------------- |
 | Swift Beginnings | ALL banned moves, items and Pokémon may be used while labbing and pivoting. The normal restrictions on moves, abilities and BST apply once you begin the first non-rival battle.   |
-| Stored Power  | Your randomly selected team can use any additional unlocks you have at your disposal - i.e. Shinies, IVs, Egg Moves, Abilities etc.  |
-| Flying Blind | You cannot buy the map item, biome selection is random.  |
-| Savvy Shopper | You can only buy up to one item from the fixed pool per stage, random items will not count against this. |
-| Permadeath | A Pokemon that faints can no longer be used in fights or intentionally revived for the rest of the run. You may transfer its items to other party members before releasing/replacing it. Reviver seeds are allowed to prevent fainting.  |
-| One Shot | No save scumming whatsoever, if a server issue/bug occurs then replay the fight in the exact same way up until that point. |
-| No Dupes | You can only have one Pokemon of any specific species/line in your team (including fused Pokemon) eg. One Zigzagoon/Linoone/Obstagoon/Fusion with any of these  |
-| Mad Scientist | You MUST fuse 2 of your Pokemon if the DNA Splicer is in the shop. You cannot unsplice any fusions during the run. |
-| Power Limiter | You cannot start the run with any Pokemon 580 BST or higher, catching or evolving into them mid-run is fine.  |
-| Plan Ahead | You may catch any Pokemon you like, even if it breaks the above rules such as Legendaries or a Shiny of a species you already own. However, you cannot use banned Pokemon in battle and must store it in the PC as soon as possible.  |
+| Limited Healthcare  |  After receiving your first Gym badge immediately use the Pokémon Centre. You may now only use the Pokémon Centre up to 5 times for the remainder of the run.  |
+| Final Frontier | After Acquiring your 8th Gym badge, Battle Items are now banned but you gain one Bonus Pokémon Centre.   |
+| Savvy Shopper | You may buy up to 10 regular potions total after beating the first Gym. |
+| BALLS of Knowledge |  You may use each uniquely numbered TM acquired on your journey one time, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. |
+| Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. Game specific lists are availible below.  |
+| Adventure Awaits | The Mt Moon Step Items are banned  |
+| Flute Fortune |  Flutes may be sold to a Poke Mart in exchange for buying one corresponding status heal. A table of conversions is below. |
+| The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! The following Held items are still banned: Lucky egg, Leftovers, Shell Bell.   |
+| Bossier Bosses | All Boss fights, Gym Leaders and Pokemon League members have sensible held items   |
+
+
+| Flute | Reward |
+| ------------- | ------------- |
+| White | Awakening |
+| Black | Antidote |
+| Red | Burn Heal |
+| Yellow | Paralyze Heal |
+| Blue | Ice Heal |
