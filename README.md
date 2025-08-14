@@ -35,7 +35,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. | Game specific lists are availible below. |
 | PP Up Limit | You may only use 1 PP Up on each move. PP Max's may not be used at all, but you may "trade-in" each PP max by selling it and buying either a Hyper Potion or up to three status-curing items (Antidote, Full Heal, etc. NOT full restores). | When trading a PP Max, you may mix and match the 3 status items, but you must choose all 3 right then. You cannot bank a choice for a different shop later. In place of a hyper potion you may also opt for an equivalent amount of healing using other items like 4 super potions. |
 | The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell.  |
-| Bossier Bosses | All Boss fights, Gym Leaders and Pokemon League members have sensible held items | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
+| Bigger & Badder | All Boss fights, Gym Leaders and Pokemon League members have sensible held items | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | Flute Fortune |  Flutes may be sold to a Poke Mart in exchange for buying one corresponding status heal. | |
 
 | Flute | Reward |
