@@ -31,7 +31,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Helpful Healing | As long as you are not inside a gym or the Elite 4: HP Heals, Status Heals, and PP items can be used outside of battle. While in a Gym or Elite 4, healing must be done only in battle. | Dojos are treated the same as gyms, so these restrictions apply there as well. |
 | More Moves to Use | Moves that damage the enemy to heal yourself and moves that only cure status effects are now allowed to be used in trainer battles only. Leech Seed/Giga Drain/Aromatherapy etc. Moves that heal HP without hurting the opponent like Softboiled/Morning Sun/Wish are still banned. | Pain Split is an exception and not legal. You may not use HP healing moves or Status-only healing moves in wild pokemon battles. |
 | Savvy Shopper | You may buy up to 10 regular potions total after beating the first Gym. | These can be bought at any time, but the total should always be 10 at most. |
-| BALLS of Knowledge |  You may use each uniquely numbered TM acquired on your journey one time, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. |
+| BALLS of Knowledge |  You may use each uniquely numbered TM acquired on your journey one time, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. | Game Specific NPC tms are listed below |
 | Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. | Game specific lists are availible below. |
 | PP Up Limit | You may only use 1 PP Up on each move. PP Max's may not be used at all, but you may "trade-in" each PP max by selling it and buying either a Hyper Potion or up to three status-curing items (Antidote, Full Heal, etc. NOT full restores). | When trading a PP Max, you may mix and match the 3 status items, but you must choose all 3 right then. You cannot bank a choice for a different shop later. In place of a hyper potion you may also opt for an equivalent amount of healing using other items like 4 super potions. |
 | The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell.  |
@@ -54,7 +54,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
 1. The Mt. Moon Step Items are banned
-2. The following NPCs provide TMs which may be used in accordance with the balls of knowledge rule:  Mr Psychic in Saffron, Return girl in the gate South of Lavender and the dept. store girl if you give her a fresh water/soda pop/lemonade found via regular means. 
+2. NPC TMs: Mr Psychic in Saffron, Return girl in the gate South of Lavender and the dept. store girl if you give her a fresh water/soda pop/lemonade found via regular means. 
 3. Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
   
 | Dungeon | Tutor |
