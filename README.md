@@ -24,18 +24,18 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 | Rules | Explanation | Notes |
 | ------------- | ------------- |  ------------- |
-| Swift Beginnings | ALL banned moves and Pokémon may be used while labbing and pivoting. The normal restrictions on moves, abilities and BST apply once you begin the first non-rival battle. | You may not favorite or run 580+ BST Pokémon |
-| Put That Down! | Any items aquired via the pickup ability must be thrown away asap   |  |
-| Limited Healthcare  |  After receiving your first Gym badge immediately use the Pokémon Centre. You may now only use the Pokémon Centre up to 6 times for the remainder of the run.  | You may use beds, Doctors, the Healing Circle and other PC substitutes, these still count towards your usages |
-| Final Frontier | After Acquiring your 8th Gym badge, Battle Items are now banned but you gain one Bonus Pokémon Centre usage.  |
-| Power Limiter | Stat-boosting only moves are banned against Gym Leader, Elite Four and Champion fights. | Secondary boosts like charge beam are allowed. |
+| Swift Beginnings | ALL banned moves may be used while labbing and pivoting. The normal restrictions on moves apply once you begin the first non-rival battle. |  
+| Put That Down! | Any items acquired via the pickup ability must be thrown away asap   |  |
+| Limited Healthcare  |  After receiving your first Gym badge you MUST immediately use the Pokémon Centre. You may now only use the Pokémon Centre up to 5 times for the remainder of the run.  | You may use beds, Doctors, the Healing Circle and other PC substitutes, these still count towards your usages |
+| Final Frontier | After Acquiring your 8th Gym badge, Battle Items are now banned but you gain one Bonus Pokémon Centre usage.  | Battle items such as x-attack, dire hit and guard spec. |
+| Power Limiter | Moves that boost stats without dealing damage are banned against Gym Leader, Elite Four and Champion fights. | Secondary boosts like charge beam & Field effects like light screen, mist and rain dance are allowed. |
 | Helpful Healing | As long as you are not inside a gym or the Elite 4: HP Heals, Status Heals, and PP items can be used outside of battle. While in a Gym or Elite 4, healing must be done only in battle. | Dojos are treated the same as gyms, so these restrictions apply there as well. |
 | More Moves to Use | Moves that damage the enemy to heal yourself and moves that only cure status effects are now allowed to be used in trainer battles only. Leech Seed/Giga Drain/Aromatherapy etc. Moves that heal HP without hurting the opponent like Softboiled/Morning Sun/Wish are still banned. | Pain Split is an exception and not legal. You may not use HP healing moves or Status-only healing moves in wild pokemon battles. |
-| Savvy Shopper | You may buy up to 10 regular potions total after beating the first Gym. | These can be bought at any time, but the total should always be 10 at most. |
+| Savvy Shopper | You may buy up to 10 regular potions total after beating the first Gym. | These should be bought asap. |
 | BALLS of Knowledge |  You may use each uniquely numbered TM acquired on your journey one time, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. | 
-| Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. | Game specific lists are availible below. |
+| Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. | Game specific lists are available below. |
 | PP Limit | You may only use 1 PP Up on each move. PP Max's may not be used at all, but you may "trade-in" each PP max by selling it and buying a Hyper Potion. | When trading a PP Max, in place of a hyper potion you may also opt for an equivalent amount of healing using other items like 4 super potions. |
-| The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell, focus band, brightpowder and lax incense  |
+| The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell, focus band, brightpowder and lax incense. You may still not cancel evolutions with the B button. |
 | Bigger & Badder | All Boss fights, Gym Leaders and Pokemon League members have sensible held items | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | Flute Favors |  Flutes may be sold to a Poke Mart in exchange for buying one corresponding status heal. | |
 
@@ -60,9 +60,9 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
   
 | Dungeon | Tutor |
 | ------------- | ------------- |
-| Mt. Moon | 2 Move Bros once you leave |
+| Mt. Moon | Both of the move Bros once you leave |
 | Rock Tunnel | Youngster near the end of the tunnel |
-| Rocket Hideout | Celadon Counter Tutor (in the dept. store  |
+| Rocket Hideout | Celadon Counter Tutor (in the dept. store)  |
 | Silph Co. | Copycat girl in Saffron and Thunder Wave girl inside Silph Co. |
 | Cinnabar Mansion | Metronome Tutor in research facility |
 | Victory Road | NPC near the exit |
