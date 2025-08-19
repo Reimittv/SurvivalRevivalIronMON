@@ -1,4 +1,4 @@
-# Survival Revival IronMON Ruleset by [SaltyDolphin](https://www.twitch.tv/saltydolphin) and [Reimi](https://www.twitch.tv/reimi)
+# Survival Revival IronMON Ruleset by [Reimi](https://www.twitch.tv/reimi) & [SaltyDolphin](https://www.twitch.tv/saltydolphin)
 
 Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
