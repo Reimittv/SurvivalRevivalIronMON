@@ -1,5 +1,4 @@
-# Survival Revival IronMON Ruleset by [Reimi](https://www.twitch.tv/reimi) & [SaltyDolphin](https://www.twitch.tv/saltydolphin)
-
+# Survival Revival IronMON Ruleset by [SaltyDolphin](https://www.twitch.tv/saltydolphin) & [Reimi](https://www.twitch.tv/reimi) 
 Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## Contents
@@ -11,11 +10,11 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## Ruleset Aims 
  
-We have created a ruleset that aims to broaden the appeal of Survival, by addressing some common complaints both we and others had towards the original ruleset. 
+This ruleset aims to broaden the appeal of Survival, by addressing some common complaints both we and others had towards the original ruleset. 
 
 Furthermore, we have attempted to structure a challenge that encourages creativity, problem solving and planning. The hypest moments are usually ones where the runner makes bold and unique plays that others may not have seen or attempted, we want to see and create more of those special moments. 
 
-We are very open to feedback and will likely make some adjustements early on, but we think we have the bones here for something really interesting.  We hope you enjoy and good luck on your runs! 
+We're very open to feedback and will likely make adjustements early on. We hope you enjoy and good luck on your runs! 
 
 
 ## General Rules for All Games
