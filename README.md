@@ -73,5 +73,5 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 ## Randomizer Settings Strings
 
-FRLG
+### Fire Red / Leaf Green
 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyEwUYEEZpcmUgUmVkIChVKSAxLjFlN6oO48M4ig==
