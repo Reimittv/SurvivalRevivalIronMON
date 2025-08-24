@@ -14,9 +14,11 @@ This ruleset aims to broaden the appeal of Survival, by addressing some common c
 
 Furthermore, we have attempted to structure a challenge that encourages creativity, problem solving and planning. The hypest moments are usually ones where the runner makes bold and unique plays that others may not have seen or attempted, we want to see and create more of those special moments. 
 
+If you're interested in helping create an adaptation for Emerald, HGSS etc. then please message Reimi either in chat or on Discord. 
+
 We're very open to feedback and will potentially make adjustments if needed in the future. We hope you enjoy and good luck on your runs! 
 
-If you're interested in helping create an adaptation for Emerald, HGSS etc. then please message Reimi either in chat or on Discord. 
+
 
 
 ## General Rules for All Games
