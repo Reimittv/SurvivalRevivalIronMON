@@ -66,7 +66,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Mt. Moon | Both of the move Bros once you leave |
 | Rock Tunnel | Youngster near the end of the tunnel |
 | Rocket Hideout | Celadon Counter Tutor (in the dept. store)  |
-| Silph Co. | Copycat girl in Saffron and Thunder Wave girl inside Silph Co. |
+| Silph Co. | Thunder Wave girl inside Silph Co. and Copycat girl in Saffron (Poke Doll is needed to use the copycat one)  |
 | Cinnabar Mansion | Metronome Tutor in research facility |
 | Victory Road | NPC near the exit |
 
