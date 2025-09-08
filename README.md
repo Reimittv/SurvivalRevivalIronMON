@@ -60,7 +60,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
 1. The Mt. Moon Step Items are now banned. 
-2. NPC TMs: Mr Psychic in Saffron, Return girl in the gate South of Lavender and dept. store girl by giving her a fresh water/soda pop/lemonade you have found. 
+2. Usable NPC TMs: Mr Psychic in Saffron, Return girl in the gate South of Lavender and dept. store girl by giving her a fresh water/soda pop/lemonade you have found. 
 3. Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
   
 | Dungeon | Tutor |
