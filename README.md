@@ -19,11 +19,13 @@ If you're interested in helping create an adaptation for Emerald, HGSS etc. then
 We're very open to feedback and will potentially make adjustments if needed in the future. We hope you enjoy and good luck on your runs! 
 
 
-**Super Kaizo Rules do not apply! No Safari Pivot, no Smart AI or Held items on all trainers**
+
 
 ## General Rules for All Games
 
 ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Survival Revival rule below)!
+
+**Super Kaizo Rules do not apply! No Safari Pivot, no Smart AI or Held items on all trainers**
 
 | Rules | Explanation | Notes |
 | ------------- | ------------- |  ------------- |
