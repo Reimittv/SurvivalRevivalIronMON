@@ -25,7 +25,7 @@ We're very open to feedback and will potentially make adjustments if needed in t
 
 ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Survival Revival rule below)!
 
-**Super Kaizo Rules do not apply! No Safari Pivot, no Smart AI or Held items on all trainers**
+**Super Kaizo Specific Rules do not apply! No Safari Pivot.**
 
 | Rules | Explanation | Notes |
 | ------------- | ------------- |  ------------- |
