@@ -35,7 +35,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Final Frontier | After Acquiring your 8th Gym badge, Battle Items are now banned but you gain one Bonus Pokémon Centre usage.  | Battle items such as x-attack, dire hit and guard spec. |
 | Power Limiter | Moves that boost stats without dealing damage are banned against Gym Leader, Elite Four and Champion fights. | Secondary boosts like charge beam & Field effects like light screen, mist and rain dance are allowed. |
 | Helpful Healing | As long as you are not inside a gym or the Elite 4: HP Heals, Status Heals, and PP items can be used outside of battle. While in a Gym or Elite 4, healing must be done only in battle. | Dojos are treated the same as gyms, so these restrictions apply there as well. |
-| More Moves to Use | Moves that damage the enemy to heal yourself and moves that only cure status effects are now allowed to be used in trainer battles only. Such as Leech Seed/Giga Drain/Aromatherapy and so forth.    Moves that heal HP without hurting the opponent like Softboiled/Morning Sun/Wish are still banned. | Pain Split is an exception and not legal. You may not use HP healing moves or Status-only healing moves in wild pokemon battles. |
+| More Moves to Use | Moves that damage the enemy to heal yourself and moves that only cure status effects are now allowed to be used in trainer battles only. Such as Leech Seed/Giga Drain/Aromatherapy and so forth.    Moves that heal HP without hurting the opponent like Softboiled/Morning Sun/Wish are still banned. | Pain Split is an exception and not legal. You may not use HP healing moves, Status-only healing moves or Recycle in wild pokemon battles. |
 | Savvy Shopper | You may buy up to 10 regular potions total after beating the first Gym. | These should be bought asap. |
 | BALLS of Knowledge |  You may use each uniquely numbered TM acquired on your journey one time, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. | Held TMs can only come from your lab mon or a successful pivot, HM Friend items are totally unusable. |
 | Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. | Game specific lists are available below. |
@@ -59,9 +59,10 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 ### Fire Red / Leaf Green
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
-1. The Mt. Moon Step Items are now banned. 
-2. Usable NPC TMs: Mr Psychic in Saffron, Return girl in the gate South of Lavender and dept. store girl by giving her a fresh water/soda pop/lemonade you have found. 
-3. Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
+1. The Mt. Moon Step Items are now banned.
+2. You no longer have to fight the rival in the SS Anne immediately.
+3. Usable NPC TMs: Mr Psychic in Saffron, Return girl in the gate South of Lavender and dept. store girl by giving her a fresh water/soda pop/lemonade you have found. 
+4. Availible Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
   
 | Dungeon | Tutor |
 | ------------- | ------------- |
