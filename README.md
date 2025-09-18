@@ -16,7 +16,7 @@ Furthermore, we have attempted to structure a challenge that encourages creativi
 
 If you're interested in helping create an adaptation for Emerald, HGSS etc. then please message Reimi either in chat or on Discord. 
 
-We're very open to feedback and will potentially make adjustments if needed in the future. We hope you enjoy and good luck on your runs! 
+After each having been on several deep runs, we feel that no immediate changes are required. We will be contemplating allowing X-Items at the E4 though. 
 
 
 
