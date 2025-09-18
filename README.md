@@ -29,7 +29,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 | Rules | Explanation | Notes |
 | ------------- | ------------- |  ------------- |
-| Swift Beginnings | ALL banned moves may be used while labbing and pivoting. The normal restrictions on moves apply once you begin the first non-rival battle. |  
+| Swift Beginnings | ALL banned moves may be used while labbing and pivoting. The normal restrictions on moves apply once you begin the first non-rival battle. | This allows the use of moves like Spore to speed up catches. |   
 | Put That Down! | Any items acquired via the pickup ability must be thrown away asap   |  |
 | Limited Healthcare  |  After receiving your first Gym badge you MUST immediately use the Pokémon Centre. You may now only use the Pokémon Centre up to 5 times for the remainder of the run.  | You may use beds, Doctors, the Healing Circle and other PC substitutes, these still count towards your usages |
 | Final Frontier | After Acquiring your 8th Gym badge, Battle Items are now banned but you gain one Bonus Pokémon Centre usage.  | Battle items such as x-attack, dire hit and guard spec. |
