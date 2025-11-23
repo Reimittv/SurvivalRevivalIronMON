@@ -23,7 +23,7 @@ Battle Items are now fully legal, even during the Pokémon League fights.
 
 You may now buy 15 potions after beating Brock, increased from 10.
 
-Enhanced the victory road full clear prize to be 3 move tutors up from 1. If you're able to somehow pull off a full clear in this format, you deserve a big reward!
+Enhanced the victory road full clear prize to 3 move tutors. It's the riskiest full clear, you deserve a big reward!
 
 
 ## General Rules for All Games
