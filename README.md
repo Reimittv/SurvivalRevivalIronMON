@@ -19,7 +19,9 @@ If you're interested in helping create an adaptation for Emerald, HGSS etc. then
 
 
 **Changes as of 21/11/2025:**
+
 Battle Items are now fully legal, even during the Pokémon League fights. 
+
 You may now buy 15 potions after beating Brock, increased from 10.
 
 
