@@ -23,7 +23,7 @@ Battle Items are now fully legal, even during the Pokémon League fights.
 
 You may now buy 15 potions after beating Brock, increased from 10.
 
-
+Enhanced the victory road full clear prize to be 3 move tutors up from 1. If you're able to somehow pull off a full clear in this format, you deserve a big reward!
 
 
 ## General Rules for All Games
@@ -76,7 +76,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Rocket Hideout | Celadon Counter Tutor (in the dept. store)  |
 | Silph Co. | Thunder Wave girl inside Silph Co. and Copycat girl in Saffron (Poke Doll is needed to use the copycat one)  |
 | Cinnabar Mansion | Metronome Tutor in research facility |
-| Victory Road | NPC near the exit |
+| Victory Road | NPC near the exit, Pewter City Museum Guy and Viridian City Dream Eater Guy |
 
 
 
