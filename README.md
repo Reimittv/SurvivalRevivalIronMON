@@ -18,12 +18,17 @@ If you're interested in helping create an adaptation for Emerald, HGSS etc. then
 
 
 
-## Changes as of 21/11/2025:
+## Changes as of 26/01/2025:
+New Rule - Dimishing Return: Trade any 2 status specific heal items for 1 status specific heal item (no full heal just 2 burn heals for 1 antidote etc)
+
 Battle Items are now fully legal, even during the Pokémon League fights. 
 
 You may now buy 15 potions after beating Brock, increased from 10.
 
 Enhanced the victory road full clear prize to 3 move tutors. It's the riskiest full clear, you deserve a big reward!
+
+At this point the ruleset is considered finished. It is certainly very challenging, but it's been a ton of fun and is definitely beatable in the current state. 
+
 
 
 ## General Rules for All Games
@@ -47,6 +52,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | PP Limit | You may only use 1 PP Up on each move. PP Max's may not be used at all, but you may "trade-in" each PP max by selling it and buying a Hyper Potion. | When trading a PP Max, in place of a hyper potion you may also opt for an equivalent amount of healing using other items like 4 super potions. Drinks are also allowed such as Soda Pop and Lemonade. Max Potions and Full Restores are not.  |
 | The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell, focus band and brightpowder. You may still not cancel evolutions with the B button. |
 | Bigger & Badder | All Boss fights, Gym Leaders and Pokemon League members have sensible held items | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
+| Diminishing Return | You may Trade any 2 status specific heal items for 1 status specific heal item | e.g. Trading 2 burn heals for 1 antidote, Full Heals can not be traded for.  |
 | Flute Favors |  Flutes may be sold to a Poke Mart in exchange for buying one corresponding status heal. | |
 
 | Flute | Reward |
