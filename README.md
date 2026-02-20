@@ -20,10 +20,9 @@ If you're interested in helping create an adaptation for Emerald, HGSS etc. then
 
 ## Changes as of 20/02/2025:
 
+**The Settings string has changed, so please update it if you have been playing prior to February 20th**
+
 Rule Change - Bigger and Badder has been changed from Sensible held items to consumable held items on boss trainers. Items like Brightpowder and Quick claw were far too strong late game and are antifun. 
-
-**The Settings string has changed as a result, so please update it if you have been playing before the change.**
-
 
 
 
