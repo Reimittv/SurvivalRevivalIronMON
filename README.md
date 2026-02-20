@@ -24,6 +24,9 @@ Rule Change - Bigger and Badder has been changed from Sensible held items to con
 
 **The Settings string has changed as a result, so please update it if you have been playing before the change.**
 
+
+
+
 New Rule - Dimishing Return: Trade any 2 status specific heal items for 1 status specific heal item (no full heal just 2 burn heals for 1 antidote etc)
 
 Battle Items are now fully legal, even during the Pokémon League fights. 
