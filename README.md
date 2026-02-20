@@ -19,7 +19,9 @@ If you're interested in helping create an adaptation for Emerald, HGSS etc. then
 
 
 ## Changes as of 20/02/2025:
+
 Rule Change - Bigger and Badder has been changed from Sensible held items to consumable held items on boss trainers. Items like Brightpowder and Quick claw were far too strong late game and are antifun. 
+
 **The Settings string has changed as a result, so please update it if you have been playing before the change.**
 
 New Rule - Dimishing Return: Trade any 2 status specific heal items for 1 status specific heal item (no full heal just 2 burn heals for 1 antidote etc)
