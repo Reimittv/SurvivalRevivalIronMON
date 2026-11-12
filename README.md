@@ -15,16 +15,6 @@ This ruleset aims to broaden the appeal of Survival, by addressing some common c
 Furthermore, we have attempted to structure a challenge that encourages creativity, problem solving and planning. The coolest moments are usually ones where the runner makes bold and unique plays that others may not have seen or attempted, we want to see more of those special moments. 
 
 
-New Rule - Dimishing Return: Trade any 2 status specific heal items for 1 status specific heal item (no full heal just 2 burn heals for 1 antidote etc)
-
-Battle Items are now fully legal, even during the Pokémon League fights. 
-
-You may now buy 15 potions after beating Brock, increased from 10.
-
-Enhanced the victory road full clear prize to 3 move tutors. It's the riskiest full clear, you deserve a big reward!
-
-At this point the ruleset is considered finished. It is certainly very challenging, but it's been a ton of fun and is definitely beatable in the current state. 
-
 
 
 ## General Rules for All Games
