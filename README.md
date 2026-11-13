@@ -26,6 +26,7 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Rules | Explanation | Notes |
 | ------------- | ------------- |  ------------- |
 | Swift Beginnings | ALL banned moves and Held Items may be used while labbing and pivoting. The normal restrictions apply once you begin the first non-rival battle. | This allows the use of moves like Spore to speed up catches. |   
+| Swift Beginnings II | Pivoting is no longer restricted to one catch per grass, instead you may catch as many total Pokémon as there are pivot locations. (4 in Fire Red) | You also may still only catch one of that species per grass. (If I catch a Snorlax in route 1, I cannot catch another Snorlax in route 1 to look for a better nature or IVs) |  
 | Put That Down! | Any items acquired via the pickup ability must be thrown away asap   |  |
 | Limited Healthcare  |  After receiving your first Gym badge you MUST immediately use the Pokémon Centre. You may now only use the Pokémon Centre up to 5 times for the remainder of the run.  | You may use beds, Doctors, the Healing Circle and other PC substitutes, these still count towards your usages |
 | Final Frontier | After Acquiring your 8th Gym badge, you gain one Bonus Pokémon Centre usage.  | 
