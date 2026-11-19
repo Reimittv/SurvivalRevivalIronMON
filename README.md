@@ -84,3 +84,6 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 
 ### Fire Red / Leaf Green
 321WRIEEjIBAAQABwCRAAKeBhsECQEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyGwUYAAUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMbg+8HR8673t
+
+### Emerald
+Coming Soon
