@@ -12,7 +12,7 @@
 - Bright Powder is no longer banned.
 - Full-clearing the S.S. Anne now rewards a choice of 1 Super Potion or 1 Status Heal (this should be bought immediately upon disembarking).
 - TMs no longer have the unique number rule, so now if you find TM39 on the ground and get it for beating Brock, you can use both copies. 
-- Upon beating Erika, you now receive a Fresh Water from the Celadon Department Store (this can be used to heal or trade for a TM).
+- Upon beating Erika, you now receive a Fresh Water (this can be used to heal or trade for a TM).
 - Rotating Wild Encounters have been added to enhance the pivoting experience and encourage more runs.
 - You now receive 16 Potions from the NPC north of Pallet Town, removing the need to buy them.
 - Flute exchanges are now hardcoded, so selling a flute to a Poké Mart will provide the appropriate status heal in return.
