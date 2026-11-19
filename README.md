@@ -3,7 +3,6 @@
 - Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the Survival Revival patch and [DrMaple](https://www.twitch.tv/drmaple) for the original QOL patch
 
 ## Contents
-- [Ruleset Aims](#ruleset-aims)
 - [General Rules for All Games](#general-rules-for-all-games)
 - [Game Specific Rules](#game-specific-rules)
 - [Randomizer Settings Strings](#randomizer-settings-strings)
@@ -20,12 +19,6 @@
 - You now receive 16 potions from the NPC North of palette town removing the need to buy them.
 - Flute exchanges are now hard coded, so selling a flute to a mart will provide the appropriate status heal in return.
 - The move releaner has been moved from Sevii to Fuchsia (inside the move deleters house) and may now be used so long as you have found the mushrooms to do so.  
-
-## Ruleset Aims 
- 
-This ruleset aims to broaden the appeal of Survival, by addressing some common complaints both we and others had towards the original ruleset. 
-
-Furthermore, we have attempted to structure a challenge that encourages creativity, problem solving and planning. The coolest moments are usually ones where the runner makes bold and unique plays that others may not have seen or attempted, we want to see more of those special moments. 
 
 
 
