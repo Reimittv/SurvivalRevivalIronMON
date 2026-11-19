@@ -46,14 +46,14 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 | Power Limiter | Moves that boost stats without dealing damage are banned against Gym Leader, Elite Four and Champion fights. | Secondary boosts like charge beam & Field effects like light screen, mist and rain dance are allowed. |
 | Helpful Healing | As long as you are not inside a gym or the Elite 4: HP Heals, Status Heals, and PP items can be used outside of battle. While in a Gym or Elite 4, healing must be done only in battle. | Dojos are treated the same as gyms, so these restrictions apply there as well. |
 | More Moves to Use | Moves that damage the enemy to heal yourself and moves that only cure status effects are now allowed to be used in trainer battles only. Such as Leech Seed/Giga Drain/Aromatherapy and so forth.    Moves that heal HP without hurting the opponent like Softboiled/Morning Sun/Wish are still banned. | Pain Split is an exception and not legal. You may not use HP healing moves, Status-only healing moves or Recycle in wild pokemon battles. |
-| Savvy Shopper | You may buy up to 15 regular potions total after beating the first Gym. |
-| BALLS of Knowledge |  You may use each uniquely numbered TM acquired on your journey one time, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. | Held TMs can only come from your lab mon or a successful pivot, HM Friend items are totally unusable. |
-| Trials of Knowledge | Full-clearing certain dungeons is rewarded with one-time use of specific move tutors. | Game specific lists are available below. |
+| Pogtion | You receive 16 potions from the NPC North of Palette town instead of 1 |
+| BALLS of Knowledge |  You may use all TMs acquired on your journey, they are 50% learnable. You may not purchase them from shops, but Gym Leader, NPC, Ground and held TMs are all allowed. | Held TMs can only come from your lab mon or a successful pivot, HM Friend items are totally unusable. |
+| Trials of Knowledge | Full-clearing certain dungeons is rewarded with prizes. | Game specific lists are available below. |
 | PP Limit | You may only use 1 PP Up on each move. PP Max's may not be used at all, but you may "trade-in" each PP max by selling it and buying a Hyper Potion. | When trading a PP Max, in place of a hyper potion you may also opt for an equivalent amount of healing using other items like 4 super potions. Drinks are also allowed such as Soda Pop and Lemonade. Max Potions and Full Restores are not.  |
-| The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell, focus band and brightpowder. You may still not cancel evolutions with the B button. |
+| The Tools of Survival | Held items may be used on your Pokémon from the beginning of the game and freely swapped between. This includes Everstones to prevent evolving! | The following Held items are still banned: Lucky egg, Leftovers, Shell Bell and focus band. You may still not cancel evolutions with the B button. |
 | Bigger & Badder | All Boss fights, Gym Leaders and Pokemon League members have consumable held items | Items stolen from these trainers via moves like thief are usable as you please |
 | Diminishing Return | You may Trade any 2 status specific heal items for 1 status specific heal item | e.g. Trading 2 burn heals for 1 antidote, Full Heals can not be traded for.  |
-| Flute Favors |  Flutes may be sold to a Poke Mart in exchange for buying one corresponding status heal. | |
+| Flute Favors |  Flutes may be sold to a Poke Mart in exchange for one corresponding status heal. | |
 
 | Flute | Reward |
 | ------------- | ------------- |
@@ -72,16 +72,17 @@ ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valia
 1. The Mt. Moon Step Items are now banned.
 2. You no longer have to fight the rival in the SS Anne immediately.
 3. Usable NPC TMs: Mr Psychic in Saffron, Return girl in the gate South of Lavender and dept. store girl by giving her a fresh water/soda pop/lemonade you have found. 
-4. Availible Move Tutor Prizes: (These do not have to be used immediately but one-shot dungeons still apply) 
+4. Available Dungeon Prizes: (one-shot dungeons still apply, so some move Tutors will need to be used before leaving if desired)  
   
-| Dungeon | Tutor |
+| Dungeon | Prize |
 | ------------- | ------------- |
-| Mt. Moon | Both of the move Bros once you leave |
-| Rock Tunnel | Youngster near the end of the tunnel |
-| Rocket Hideout | Celadon Counter Tutor (in the dept. store)  |
-| Silph Co. | Thunder Wave girl inside Silph Co. and Copycat girl in Saffron (Poke Doll is needed to use the copycat one)  |
-| Cinnabar Mansion | Metronome Tutor in research facility |
-| Victory Road | NPC near the exit, Pewter City Museum Guy and Viridian City Dream Eater Guy |
+| Mt. Moon | You may learn from both of the move Bros |
+| S.S. Anne | You may buy either a Super Potion or a status heal immediately upon disembarking |
+| Rock Tunnel | You may learn from the Youngster near the end of the tunnel |
+| Rocket Hideout | You may learn from the Celadon Counter Tutor (in the dept. store)  |
+| Silph Co. | You may learn from the Thunder Wave girl inside Silph Co. and the Copycat girl in Saffron (Poke Doll is needed to use the copycat one)  |
+| Cinnabar Mansion | You may learn from the Metronome Tutor in the research facility |
+| Victory Road | You may learn from the NPC near the exit, the Pewter City Museum Guy and the Viridian City Dream Eater Guy |
 
 
 
