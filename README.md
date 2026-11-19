@@ -11,7 +11,8 @@
 
 
 ## V2.0 Changes
-You may now use Brightpowder reducing the 
+You may now use Brightpowders if you wish
+Full Clearing the SS Anne now rewards a choice of 1 Super Potion or 1 Status Heal (This should be bought immediately upon disembarking)
 
 
 ## Ruleset Aims 
