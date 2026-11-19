@@ -3,7 +3,7 @@
 - Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the Survival Revival patch and [DrMaple](https://www.twitch.tv/drmaple) for the original QOL patch
 
 ## Contents
-- [General Rules for All Games](#general-rules)
+- [General Rules](#general-rules)
 - [Game Specific Rules](#game-specific-rules)
 - [Randomizer Settings Strings](#randomizer-settings-strings)
 
