@@ -11,7 +11,7 @@
 
 
 ## V2.0 Changes
-- You now need a patch that is available here (coming soon) and patch with [this](https://www.marcrobledo.com/RomPatcher.js/) website.
+- You now need a patch that is available here (coming soon) and can be applied [here](https://www.marcrobledo.com/RomPatcher.js/) 
 - Brightpowder is no longer banned
 - Full Clearing the SS Anne now rewards a choice of 1 Super Potion or 1 Status Heal (This should be bought immediately upon disembarking)
 - TMs no longer have the unique number rule. so now if you found TM39 on the ground and got it for beating Brock, you could use both copies. 
