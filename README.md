@@ -3,7 +3,7 @@
 - Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the Survival Revival patch and [DrMaple](https://www.twitch.tv/drmaple) for the original QOL patch
 
 ## Contents
-- [General Rules for All Games](#general-rules-for-all-games)
+- [General Rules for All Games](#general-rules)
 - [Game Specific Rules](#game-specific-rules)
 - [Randomizer Settings Strings](#randomizer-settings-strings)
 
@@ -23,7 +23,7 @@
 
 
 
-## General Rules for All Games
+## General Rules
 
 ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Survival Revival rule below)!
 
