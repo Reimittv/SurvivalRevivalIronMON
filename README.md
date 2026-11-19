@@ -1,11 +1,17 @@
 # Survival Revival IronMON Ruleset by [SaltyDolphin](https://www.twitch.tv/saltydolphin) & [Reimi](https://www.twitch.tv/reimi) 
-Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
+- Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
+- Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the QOL patch and DrMaple for the original QOL patch
 
 ## Contents
 - [Ruleset Aims](#ruleset-aims)
 - [General Rules for All Games](#general-rules-for-all-games)
 - [Game Specific Rules](#game-specific-rules)
 - [Randomizer Settings Strings](#randomizer-settings-strings)
+
+
+
+## V2.0 Changes
+You may now use Brightpowder reducing the 
 
 
 ## Ruleset Aims 
