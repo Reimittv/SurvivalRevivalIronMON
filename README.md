@@ -1,6 +1,6 @@
 # Survival Revival IronMON Ruleset by [SaltyDolphin](https://www.twitch.tv/saltydolphin) & [Reimi](https://www.twitch.tv/reimi) 
 - Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
-- Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the QOL patch and DrMaple for the original QOL patch
+- Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the Survival Revival patch and [DrMaple](https://www.twitch.tv/drmaple) for the original QOL patch
 
 ## Contents
 - [Ruleset Aims](#ruleset-aims)
@@ -11,9 +11,15 @@
 
 
 ## V2.0 Changes
-You may now use Brightpowders if you wish
-Full Clearing the SS Anne now rewards a choice of 1 Super Potion or 1 Status Heal (This should be bought immediately upon disembarking)
-
+- Survival Revival now utilises a patch which you can download here (coming soon) and patch with [this](https://www.marcrobledo.com/RomPatcher.js/) website.
+- Brightpowder is no longer banned
+- Full Clearing the SS Anne now rewards a choice of 1 Super Potion or 1 Status Heal (This should be bought immediately upon disembarking)
+- TMs no longer have the unique number rule. so now if you found TM39 on the ground and got it for beating Brock, you could use both copies. 
+- Upon beating Erika, you now receive a fresh water from the Celadon Department store. (This could be used to heal or trade for a TM)
+- Rotating Wild Encounters have been added to enhance the pivoting experience and encourage more runs.
+- You now receive 16 potions from the NPC North of palette town removing the need to buy them.
+- Flute exchanges are now hard coded, so selling a flute to a mart will provide the appropriate status heal in return.
+- The move releaner has been moved from Sevii to Fuchsia (inside the move deleters house) and may now be used so long as you have found the mushrooms to do so.  
 
 ## Ruleset Aims 
  
