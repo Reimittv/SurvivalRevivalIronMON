@@ -8,7 +8,7 @@
 - [Randomizer Settings Strings](#randomizer-settings-strings)
 
 ## V2.0 Changes
-- You now need a [patch](https://github.com/Reimittv/Survival-Revival-Patch-1.0) that can be applied [here](https://www.marcrobledo.com/RomPatcher.js/). 
+- You now need a [patch]([https://github.com/Reimittv/Survival-Revival-Patch-1.0](https://github.com/Reimittv/Survival-Revival-Patch-1.0/raw/refs/heads/main/FireRed_1.1_FasterFireRed_1.3.2_SR_QOL.ips)) that can be applied [here](https://www.marcrobledo.com/RomPatcher.js/). 
 - Bright Powder is no longer banned.
 - Full-clearing the S.S. Anne now rewards a choice of 1 Super Potion or 1 Status Heal (this should be bought immediately upon disembarking).
 - TMs no longer have the unique number rule, so now if you find TM39 on the ground and get it for beating Brock, you can use both copies. 
